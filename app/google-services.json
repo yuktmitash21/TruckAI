@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "525813981660",
+    "firebase_url": "https://testingaws-cbd72.firebaseio.com",
+    "project_id": "testingaws-cbd72",
+    "storage_bucket": "testingaws-cbd72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525813981660:android:8d87d419f4d1350f",
+        "android_client_info": {
+          "package_name": "com.example.yuktmitash.testingaws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525813981660-c4hsorlcugliba8i6p482j2hl9q7ujlf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yuktmitash.testingaws",
+            "certificate_hash": "87da2d89b79a5466affa2935ab1f7ee674ede4e5"
+          }
+        },
+        {
+          "client_id": "525813981660-p54do5qf8k1ctddhbb9g8m7m02rbuj7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQPI1GCYp4sOozU4-uXg0ERQHFUjpSGJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525813981660-0oonjirjo12ili9akbudkg6ct7rak6m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
